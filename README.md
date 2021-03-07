@@ -15,6 +15,7 @@ This reference architecture provides a set of YAML templates for deploying WordP
 * [Amazon CloudFront](http://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/Introduction.html), 
 * [Amazon Route 53](http://docs.aws.amazon.com/Route53/latest/DeveloperGuide/Welcome.html), 
 * [Amazon Certificate Manager (ACM)](http://docs.aws.amazon.com/acm/latest/userguide/acm-overview.html)
+
 with [AWS CloudFormation](http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/Welcome.html).
 
 
