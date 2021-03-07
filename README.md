@@ -1,4 +1,6 @@
-<img src="images/aws-logo.png" height="165" >
+<p align="center">
+<img  src="images/aws_logo_smile_1200x630.png" height="315" >
+  </p>
 
 
 ![](images/100x100_benefit_available.png)![](images/100x100_benefit_ingergration.png)![](images/100x100_benefit_ecryption-lock.png)![](images/100x100_benefit_fully-managed.png)![](images/100x100_benefit_lowcost-affordable.png)![](images/100x100_benefit_performance.png)![](images/100x100_benefit_scalable.png)![](images/100x100_benefit_storage.png)
